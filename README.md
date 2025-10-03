@@ -1,6 +1,3 @@
-Got it 👍 You want a **single-page concise README** (no extra fluff, just what your manager needs to see).
-Here’s a clean one-page version you can directly copy into your repo:
-
 ````markdown
 # Task Manager
 
