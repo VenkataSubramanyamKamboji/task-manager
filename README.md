@@ -67,9 +67,4 @@ GitHub: [VenkataSubramanyamKamboji](https://github.com/VenkataSubramanyamKamboji
 
 ```
 
----
 
-This fits **in one page** (concise, but still professional).  
-
-👉 Do you want me to also **add installation screenshots** (like login page, dashboard) so your manager gets a quick idea without running it?
-```
