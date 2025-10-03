@@ -1,3 +1,5 @@
+![Dashboard Screenshot](./UI)
+
 ````markdown
 # Task Manager
 
