@@ -1,7 +1,4 @@
-# MERN Task Manager
-
-A MERN application for basic tasks management.
-![image](https://user-images.githubusercontent.com/86913048/227101123-f8a35258-9c21-4479-86e8-055659ab75e2.png)
+#
 
 ## Table of Contents
 
@@ -157,11 +154,6 @@ Inside backend folder:
 - `npm run dev`: Starts backend using nodemon.
 - `npm start`: Starts backend without nodemon.
 
-## Useful Links
-
-- This project
-
-  - Github Repo: https://github.com/aayush301/MERN-task-manager
 
 - Official Docs
 
