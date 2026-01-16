@@ -68,5 +68,20 @@ npm start
 GitHub: [VenkataSubramanyamKamboji](https://github.com/VenkataSubramanyamKamboji)
 
 ```
+### to run the backend
+cd 'C:\Users\reddy\OneDrive\Desktop\subbu-projects\task-manager\backend'
+npm start
 
 
+cd 'C:\Users\reddy\OneDrive\Desktop\subbu-projects\task-manager\backend'
+npm run dev
+
+### for the frontend 
+cd 'C:\Users\reddy\OneDrive\Desktop\subbu-projects\task-manager\frontend'
+npm start
+
+npm run dev-server	Run only backend with auto-reload (from root)
+npm run dev-client	Run only frontend (from root)
+npm run install-all	Install dependencies for root, frontend, AND backend
+npm run build	Build frontend for production
+npm start (from root)	Start backend only (no frontend)
